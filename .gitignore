@@ -1,0 +1,12 @@
+﻿logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+.idea
+.zip
+.build
+.hash
+yarn.lock
